@@ -4,6 +4,21 @@ h1{
   padding: 30px;
 }
 
+#PongP{
+	text-align: center;
+  background: white;
+	margin-top: 20px;
+}
+
+#about{
+  color: blue;
+
+}
+
+#PongP2{
+  background: white;
+}
+
 .sidenav a {
     font-size: 18px;
     color: black;
