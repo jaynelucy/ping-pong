@@ -1,17 +1,20 @@
 h1{
 	background-color: #26b3ff;
-	text-align: center;
-  padding: 30px;
+	text-align:center;
+  padding: 50px;
+	padding-left: -10px;
+	padding-right: -10px;
 }
 
 #PongP{
 	text-align: center;
-  background: white;
+  background: green;
 	margin-top: 20px;
 }
 
 #about{
   color: blue;
+	padding-bottom: 30px;
 
 }
 
@@ -24,4 +27,8 @@ h1{
     color: black;
     display: block;
     padding: 3px;
+}
+
+.container-fluid{
+  background-color: lightblue;
 }
