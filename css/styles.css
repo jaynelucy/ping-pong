@@ -32,3 +32,10 @@ h1{
 .container-fluid{
   background-color: lightblue;
 }
+.col-md-9{
+	background-image: url(../images/Woolsey-Outdoor-Ping-Pong-Table-01.jpg);
+	background-size: contain;
+}
+h1, h2 , p, ul , li, label {
+	color: white;
+}
