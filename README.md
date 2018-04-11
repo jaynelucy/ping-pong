@@ -8,7 +8,7 @@ Ping-Ping
 
 
 ## Link to Website
-https://github.com/jaynelucy/ping-pong
+https://jaynelucy.github.io/ping-pong/
 
 ## Getting Started
 
